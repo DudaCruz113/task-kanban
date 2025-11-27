@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="color_default">#f1e6ff</color>
+    <color name="roxo">#5a328c</color>
+    <color name="cinzaroxo">#b4a7c4</color>
+</resources>
